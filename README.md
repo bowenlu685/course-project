@@ -1,6 +1,6 @@
 # course-project
 
-Hello! I am Bowen, a passionate and detail-oriented master graduate with experiences in analytics, modeling and programming.
+Hello! I am Bowen, a master graduate with experiences in analytics, modeling and programming.
 
 Here displaying my course projects including predictive analysis, text mining, big data application, optimization modeling, and so on.
 Most of them in Python, plus two in R, one with PySpark.
