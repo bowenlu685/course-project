@@ -8,6 +8,7 @@ Here displaying my course projects including predictive analysis, text mining, b
 Most of them in Python, plus two in R, one with PySpark.
 
 Area involved: finance, healthcare, route planning, real estate, human resource.
+
 Other interested area: media and digital marketing, customer service, supply chain, industrial engineering, sport analytics, etc.
 
 Hope to become a creative and helpful data professional!
