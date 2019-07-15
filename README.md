@@ -5,7 +5,7 @@ Hello!
 I am Bowen, a master graduate with experiences in analytics, modeling and programming.
 
 Here displaying my course projects including predictive analysis, text mining, big data application, optimization modeling, and so on.
-Most of them in Python, plus two in R, one with PySpark.
+Most of them in Python, others in R or SAS.
 
 Area involved: finance, healthcare, route planning, real estate, human resource.
 
